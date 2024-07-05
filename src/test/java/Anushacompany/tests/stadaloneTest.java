@@ -18,6 +18,7 @@ public class stadaloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
+                //new comments added for git and Jenkins execution
 		String productname= "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver= new ChromeDriver();//if you get error showing for this line then press command+shift+O to add the packages
